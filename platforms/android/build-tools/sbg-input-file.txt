@@ -1,0 +1,1 @@
+/home/faisal/workspace/my-tab-ng/platforms/android/app/src/main/assets/app

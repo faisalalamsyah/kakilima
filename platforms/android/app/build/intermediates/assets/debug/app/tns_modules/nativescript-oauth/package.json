@@ -1,0 +1,121 @@
+{
+  "_args": [
+    [
+      "nativescript-oauth",
+      "/home/faisal/workspace/my-tab-ng"
+    ]
+  ],
+  "_from": "nativescript-oauth@latest",
+  "_id": "nativescript-oauth@2.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-oauth",
+  "_nodeVersion": "8.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-oauth_2.1.4_1528251532248_0.7633097828980524"
+  },
+  "_npmUser": {
+    "email": "alex@nuvious.com",
+    "name": "alexziskind1"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-oauth",
+    "raw": "nativescript-oauth",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-oauth/-/nativescript-oauth-2.1.4.tgz",
+  "_shasum": "057985414c56463ea5f2c2beae05aa376dbd97f2",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-oauth",
+  "_where": "/home/faisal/workspace/my-tab-ng",
+  "author": {
+    "email": "alex@nuvious.com",
+    "name": "Alexander Ziskind",
+    "url": "http://www.nuvious.com/blog"
+  },
+  "bugs": {
+    "url": "https://github.com/alexziskind1/nativescript-oauth/issues"
+  },
+  "contributors": [
+    {
+      "name": "Kevin Primm",
+      "email": "kfprimm@gmail.com",
+      "url": "https://github.com/kfprimm"
+    },
+    {
+      "name": "Toma Nikolov",
+      "url": "https://github.com/TomaNikolov"
+    }
+  ],
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "description": "OAuth 2 login for NativeScript.",
+  "devDependencies": {
+    "nativescript-dev-typescript": "^0.5.0",
+    "tns-core-modules": "3.4.1",
+    "tns-platform-declarations": "3.4.1",
+    "typescript": "2.3.4"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 23,
+    "integrity": "sha512-sGG/Qex4GHV7JTWFSbteITUBXuKfz4BvmOsGmIECtIl4shUyS6nzVM12H/xA4C7fvmPN9Q7MrripY3BtQtjUVg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbF0SOCRA9TVsSAnZWagAAV+MQAI/VvmIcdyLQshh401uy\nui0g2toZnphUQJfhOjumYfBK4rQl2hdnXMYw6wzhfckHg8VaykXJYlTN14Lf\njfO3/F7hE3GJrzHw3Ww5BXJp438BOB54yrgOQTwiOcYdc2ZxYKYsEZ12g+kt\n4kwom0hBnCc5ATG06vd9FzkFxWAAcMTUoSjD6rhP7ASTWXOXd3S1MZ70ds4b\ndP0AEwsUy6U6U08sfDdJpn3auPPsIrhemKzK6M2rJhW9M0d+MgG/YgcqPxvk\ni4DUG9kobWvRcUuFHJhVLv7QhFeNPER9lrrZ60Kgiv9Prib8SoKI6aj1wdW7\nZ1XzohoP4nwPt+1Ueg1ojv8dmCEjWQx4rZb0YCfgGH0Ns1ixKIakl5OcRhLN\nomtoUGSwyCwYzjKkoLq7TPbolzX7gVAvfkZkYKUlRs1yq4h0Oofs7dh9DQ1U\naEHNUG8rwqiUI/lRRxH6UGRtsPxw6HSOX0OtjRa3OLPP3GaPhyIYwL8kjHtX\ndpngtV/b4xssGBjayVL1IlqyOvOmBaKvE1oMTQQLEknDw1pxaztokCv9/IVP\nbIpuYlzzsKIGE8fdSPyNzj9CGcWmNVF+0qm27aGIifMnOWNOylpyq8XtQ9DD\n8TkfCgzxalyDln68gzIVMVQuGHr6Cl8cfazaRJoAKM6/PmKw/DlxzAHRpqf2\neurb\r\n=DIah\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "057985414c56463ea5f2c2beae05aa376dbd97f2",
+    "tarball": "https://registry.npmjs.org/nativescript-oauth/-/nativescript-oauth-2.1.4.tgz",
+    "unpackedSize": 345263
+  },
+  "gitHead": "8f09585145365b0703af627d84a2846ddb0bb816",
+  "homepage": "https://github.com/alexziskind1/nativescript-oauth",
+  "keywords": [
+    "Android",
+    "Azure AD",
+    "Facebook",
+    "JavaScript",
+    "NativeScript",
+    "Office365",
+    "TypeScript",
+    "iOS"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/alexziskind1/nativescript-oauth/blob/master/LICENSE"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "alexziskind1",
+      "email": "alex@nuvious.com"
+    }
+  ],
+  "name": "nativescript-oauth",
+  "nativescript": {},
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexziskind1/nativescript-oauth.git"
+  },
+  "scripts": {
+    "build": "npm i && tsc",
+    "demo.android": "npm run preparedemo && cd demo-angular && tns run android",
+    "preparedemo": "npm run build && cd demo-angular && tns plugin remove nativescript-oauth && tns plugin add .. && tns install",
+    "setup": "cd demo-angular && npm install && cd .. && npm run build && cd demo-angular && tns plugin add .. && cd .."
+  },
+  "typescript": {
+    "definition": "index.d.ts"
+  },
+  "typings": "index",
+  "version": "2.1.4"
+}
